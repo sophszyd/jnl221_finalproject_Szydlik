@@ -1,0 +1,119 @@
+
+
+.header {
+	font-family: 'Libre Baskerville', serif !important;
+	margin: 0px; 
+	background-color: #F5F5F3; 
+	padding-bottom: 20px}
+
+.dom_photo {
+	background-color: black;
+	padding-right: 0px;
+	padding-left: 0px;}
+
+.caption { 
+font-family: 'Montserrat', sans-serif;
+color: "#D3D3D3"!important;
+padding-left: 20px} 
+
+ .courtesy { 
+ 	font-family: 'Montserrat', sans-serif;
+ 	color: #A39DA3;
+ 	text-align: right;
+ 	padding-right: 10px;}
+
+ .byline {
+ 	padding-left: 20px;
+ }
+.divider {
+	padding-left: 40px;
+	padding-right: 40px;
+}
+
+.intro {
+	padding-left: 40px;
+	padding-right: 40px;
+	padding-right: 40px;
+}
+
+
+.sudors {
+	 font-family: 'Libre Baskerville', serif !important;
+	 padding-left: 40px;
+	 padding-right: 40px;
+}
+
+.paragraph_one {
+	padding-bottom: 15px;
+	padding-left: 40px;
+	padding-right: 40px;
+
+}
+
+.paragraph_two {
+	border-top: solid 1px darkred;
+	border-bottom: solid 1px darkred;
+	padding-left: 40px;
+	padding-right: 40px;
+
+}
+.battlefield {
+	font-family: 'Libre Baskerville', serif !important;
+	padding-left:40px ;
+}
+.dataviz_one {
+	max-width: 700px;
+	max-height: 500px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	background-color: #F5F5F3;
+}
+.paragraph_three {
+	border-top: solid 1px darkred;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+.stimulant {
+	font-family: 'Libre Baskerville', serif !important;
+	padding-left: 40px;
+	padding-right: 40px;
+}
+
+.dataviz_two {
+	max-width: 700px;
+	max-height: 500px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 35px;
+	padding-right: 35px;
+	background-color: #F5F5F3;;
+
+}
+
+.paragraph_four {
+	border-top: solid 1px darkred;
+	padding-left: 40px;
+	padding-right: 40px;
+	border-bottom: solid 1px darkred;
+	padding-bottom: 40px}
+
+.supermeth { 
+	font-family: 'Libre Baskerville', serif !important;
+	padding-left: 45px;
+	 }
+.meth_coke {
+	max-width: 700px;
+	max-height: 500px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
+	background-color: #F5F5F3;;
+}
+
+
+
+
